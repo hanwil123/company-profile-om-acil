@@ -32,16 +32,16 @@ export default function NavbarComponents() {
           >
             About Us
           </NavbarLink>
-          <NavbarLink href="#" className=" text-black">
+          <NavbarLink href="/Views/People/Partners" className=" text-black">
             People
           </NavbarLink>
-          <NavbarLink href="#" className=" text-black">
+          <NavbarLink href="/Views/PracticeArea/PracticeArea" className=" text-black">
             Practice Area
           </NavbarLink>
           <NavbarLink href="#" className=" text-black">
             Global Reach
           </NavbarLink>
-          <NavbarLink href="#" className=" text-black">
+          <NavbarLink href="/Views/CareerAdvancement/CareerAdvancement" className=" text-black">
             Careers
           </NavbarLink>
           <NavbarLink href="#" className=" text-black">
